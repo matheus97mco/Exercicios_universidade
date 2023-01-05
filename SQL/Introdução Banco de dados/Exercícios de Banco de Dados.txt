@@ -1,0 +1,18 @@
+1) Criar as tabelas com as seguintes restrições:
+a) USUARIOS: i) Veterinario aceitar só 0 e 1 ( 0 - não 1 - sim)
+b) CONSULTAS: i) FALTOU aceitar 0 e 1 (0 - não 1 - sim)
+c) ANIMAIS: i) raca não aceita nulo ii) tutor aceita nulo
+
+2) Inserir registros em todas as tabelas.
+
+3) Buscar todos os veterinários que foram contratados no ano de 2020
+
+4) Mostrar o nome do cliente com a quantidade de animais que ele possui
+
+5) Listar o nome dos animais que não tem tutor.
+
+6) Listar o nome do veterinário e a quantidade de consulta que foi realizada no ano de 
+2021 que houve presença
+
+7) Listar o nome do usuário, a data de nascimento, o nome do cliente e a data de 
+nascimento de todos que nasceram em 1980 até 1998.
