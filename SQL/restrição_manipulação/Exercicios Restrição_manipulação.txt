@@ -1,0 +1,38 @@
+1) Criar todas as tabelas no banco de dados Oracle, colocando as restrições conforme especificada. Para a tabela ALUNOS_CURSOS, existe a restrição check para a coluna STATUS, nesta coluna só deve deixar adicionar os seguintes valores:
+A - Aprovado R - Reprovado C – Cursando 
+
+2) Na tabela ALUNOS, inserir 3 registros do sexo feminino e 2 do sexo masculino: 
+
+3) Na tabela DOCENTES, adicione os professores Humberto, Luciano e André.  
+
+4) O Professor Humberto ele ministra a aula de:   
+Banco de Dados ( carga horária 40 horas, e preço R$ 100 reais);   
+Processamento de Imagens ( carga horária 20 horas, e preço R$ 60 reais);  
+Administração para Empresas ( carga horária 80 horas, e preço R$ 250 reais).   
+
+O Professor Luciano, ministra a aula de:   
+Algoritmo ( carga horária 20 horas, e preço R$ 200 reais);  
+Segurança ( carga horária 30 horas, e preço R$ 80 reais);   
+Redes ( carga horária 80 horas, e preço R$ 250 reais);   
+Gestão de Negócios ( carga horária 100 horas, e preço R$ 450 reais).   
+
+O Professor André ministra a aula de:   
+Estrutura de Dados ( carga horária 20 horas, e preço R$ 60 reais);  Programação em Python ( carga horária 60 horas, e preço R$ 150 reais) ;  
+Cálculo I ( carga horária 40 horas, e preço R$ 100 reais).   
+
+5) Cadastre dois cursos, Sistemas de informação e Administração:
+
+6) Cadastre dois alunos no curso de Sistemas de informação e 3 alunos no curso de Administração, todos alunos estão com status cursando.  
+
+7) Para um dos alunos do curso de Sistemas, matricule nos componentes Banco de dados,  
+Segurança e Estrutura de dados, para o outro aluno de Sistemas matricule nos componentes, Redes, Banco de dados, Programação em Python  
+
+8) Para todos que estão cursando o curso de Administração matricule nos componentes, Gestão de Negócios, Cálculo I e Administração para Empresas.  
+
+9) Altere o valor do componente Processamento de imagens para 40 horas   
+
+10) Altere a pontuação dos alunos de Sistemas para 60 pontos.  
+
+11) Para os alunos de Sistemas altere o status dos alunos para A - Aprovado
+
+12) Excluir o componente Processamento de Imagem  
