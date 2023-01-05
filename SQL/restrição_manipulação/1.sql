@@ -1,6 +1,3 @@
-1-Criar todas as tabelas no banco de dados Oracle, colocando as restrições conforme especificada. Para a tabela ALUNOS_CURSOS, existe a restrição check para a coluna STATUS, nesta coluna só deve deixar adicionar os seguintes valores:
-  A - Aprovado R - Reprovado C – Cursando 
-
 create table Alunos(
     aluno NUMBER(5),
     nome VARCHAR2(50) NOT NULL,
